@@ -1,0 +1,8 @@
+{
+  "name": "Last Words",
+  "description": "A secure, respectful application to store personalized posthumous messages released only after death is verified by two trusted approvers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
